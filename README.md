@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on backend and low-code frontend technologies.<br>💡 Ask me about anything related about #tech, if i don't know then next time yes.<br>⚡️ Learning everyday is my moto.
+🔭 I am currently working on backend systems and IA agentic workflows. ⚡️ Learning everyday is my moto.
 
 
 ## 🌐 Socials:
