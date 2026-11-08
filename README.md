@@ -2,23 +2,17 @@
 
 **Making software engineering fun again.**
 
-`C# / .NET` · `Backend engineering` · `Human × AI`
-
-I build APIs and backend services.
-
 ## How I work
 
 The future I’m excited about is one where AI helps people take their ideas further. We bring the imagination, the judgment, and a reason to build in the first place.
 
 **Deciding what’s worth building is my favorite part.** I use AI to explore ideas I might otherwise skip and get prototypes in front of people sooner. What I learn from them shapes what I build next.
 
-## What I work with
+## What I bring
 
-- **Backend and data** · C#, .NET, REST APIs, Swagger, PostgreSQL, SQL Server, MongoDB, Elasticsearch, Java, PHP
-- **Web and mobile** · JavaScript, Angular, Blazor, Dart, Flutter
-- **Cloud and observability** · Azure, Docker, Kubernetes, Datadog
-- **AI-assisted development** · Agent workflows for planning, prototyping, testing, and review
-- **Design and collaboration** · Figma, Notion
+I like turning a fuzzy product need into something people can use. Sometimes that means designing an API or getting two systems to talk to each other. Other times it means making an existing service easier to run and change.
+
+I’m comfortable picking up a new stack when the problem calls for it. I choose tools with an eye toward who’ll have to work with the code after I ship it.
 
 ## Outside of code
 
