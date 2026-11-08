@@ -8,4 +8,4 @@ Deciding what’s worth building is my favorite part. I use AI to try ideas I mi
 
 Away from the keyboard, I’m always up for talking music. I listen to electronic music, some indie, classics in English, and a little jazz. I’m also a big fan of sci-fi shows.
 
-[![Find me on LinkedIn](https://img.shields.io/badge/Find_me_on_LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/luisfloresv)
+[![Find me on LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/luisfloresv)
