@@ -2,6 +2,8 @@
 
 `Making software engineering fun again.`
 
+![A hand-drawn line passes through a retro terminal and becomes a prototype.](assets/profile-banner.png)
+
 I’m a software engineer, and I like getting involved when an idea is still a little fuzzy. Sometimes I design an API or get two systems to talk to each other. Sometimes I make an existing service easier to run and change.
 
 Deciding what’s worth building is my favorite part. I use AI to try ideas I might’ve skipped and get prototypes into people’s hands sooner. I’m excited about a future where AI helps us take our ideas further and we bring the imagination and judgment to decide what to build.
