@@ -1,6 +1,6 @@
 # Hey, I’m Luis 👋
 
-**Making software engineering fun again.**
+`Making software engineering fun again.`
 
 ## How I work
 
