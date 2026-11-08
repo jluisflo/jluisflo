@@ -20,4 +20,8 @@ The future I’m excited about is one where AI helps people take their ideas fur
 - **AI-assisted development** · Agent workflows for planning, prototyping, testing, and review
 - **Design and collaboration** · Figma, Notion
 
+## Outside of code
+
+I’m always up for talking music. I listen to a lot of electronic music, some indie, classics in English, and a little jazz. I’m also a big fan of sci-fi shows.
+
 [Find me on LinkedIn](https://linkedin.com/in/luisfloresv)
